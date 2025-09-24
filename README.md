@@ -7,7 +7,6 @@
 - Responsive layout for all screen sizes
 - Hamburger navigation menu
 - Animated tour cards with flip effect
-- Background video section
 - Simple contact form
 
 ## Technologies Used
